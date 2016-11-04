@@ -1,0 +1,18 @@
+{
+  "name": "json-laboratoria",
+  "version": "1.0.0",
+  "description": "laboratoria-json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "laboratoria"
+  ],
+  "author": "Sofia Caballero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

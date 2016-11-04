@@ -1,0 +1,59 @@
+{
+	"nombre": "Laboratoria",
+	"sedes": [
+		"Lima",
+		"Arequipa",
+		"Chile",
+		"Mexico"
+	],
+	"coFunders":[
+		"Mariana Costa",
+		"Herman Marin",
+		"Rodulfo Prieto",
+		"Ana Maria Martinez"
+	],
+	"staff":[
+		"Andrea Lamas",
+		"Malu Romero",
+		"Jorge Guevara",
+		"Maria Paula Rivarola",
+		"FrancoChamochumbi"
+	],
+	"teachers":[
+		"Ivan Medina",
+		"Elizabeth Portilla",
+		"Giancarlo Corzo"
+	],
+	"teacherAssistant": "Maria Mercedes Zubieta",
+	"learning": {
+		"metodologia": "agil",
+		"planEstudios": [
+			"unidades",
+			"sprint",
+			"lecciones"
+		],
+		"lecciones":[
+			"pretrabajo",
+			"quiz",
+			"ejercicios",
+			"autoevaluacion",
+			"code review"
+		],
+		"equipos":{
+			"nombre": "squads",
+			"guia": "jedi master"
+		},
+		"dailyStandUp":[
+			"que hice ayer",
+			"que hare hoy",
+			"obstaculos y ayuda"
+		],
+		"retrospectiva":[
+			"que hicimos bien",
+			"que podemos hacer mejor",
+			"que podriamos hacer"
+		]
+	}
+
+
+}
